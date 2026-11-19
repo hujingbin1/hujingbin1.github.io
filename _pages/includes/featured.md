@@ -11,7 +11,7 @@
       <a class="featured-paper-title" href="https://arxiv.org/abs/2601.10629">VoiceSculptor: Your Voice, Designed by You</a><span class="contribution-tag">First author</span>
       <p class="featured-paper-authors"><strong>Jingbin Hu</strong>, Huakang Chen, Linhan Ma, Dake Guo, et al.</p>
       <p class="featured-paper-meta">arXiv, 2026</p>
-      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2601.10629">Paper</a><a href="https://github.com/ASLP-lab/VoiceSculptor">Code</a></p>
+      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2601.10629">Paper</a><a href="https://hujingbin1.github.io/VoiceSculptor-Demo">Demo</a><a href="https://github.com/ASLP-lab/VoiceSculptor">Code</a><a href="https://huggingface.co/ASLP-lab/VoiceSculptor-VD">Model</a><a href="https://huggingface.co/spaces/ASLP-lab/VoiceSculptor">Try it</a></p>
       <ul class="featured-paper-points">
         <li>Combines instruction-based voice design with high-fidelity voice cloning.</li>
         <li>Supports natural-language control, iterative refinement, and fine-grained voice-attribute editing.</li>
@@ -43,7 +43,7 @@
       <a class="featured-paper-title" href="https://arxiv.org/abs/2609.11260">Preference Optimization with LALM Feedback for Continuous Autoregressive Non-Verbal Vocalization Generation</a><span class="contribution-tag">First author</span>
       <p class="featured-paper-authors"><strong>Jingbin Hu</strong>, Qirui Zhan, Yuang Cao, Ziyu Zhang, et al.</p>
       <p class="featured-paper-meta">ISCSLP 2026 NVVSpeech Challenge · Track 2</p>
-      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2609.11260">Paper</a></p>
+      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2609.11260">Paper</a><a href="https://hujingbin1.github.io/NVV-TTS-Demo-Page/">Demo</a></p>
       <ul class="featured-paper-points">
         <li>Uses large audio-language model feedback to build preference pairs for non-verbal vocalization generation.</li>
         <li>Combines rejection-sampling fine-tuning with Anchored Flow-DPO; achieves a 75.80 Track 2 score.</li>
@@ -59,7 +59,7 @@
       <a class="featured-paper-title" href="https://arxiv.org/abs/2609.14740">Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS</a><span class="contribution-tag">First author</span>
       <p class="featured-paper-authors"><strong>Jingbin Hu</strong>, Luyu Wang, Wenjie Tian, Kangxiang Xia, et al.</p>
       <p class="featured-paper-meta">ISCSLP 2026 CoT-TTS Challenge · 1st Place</p>
-      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2609.14740">Paper</a></p>
+      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2609.14740">Paper</a><a href="https://hujingbin1.github.io/CoT-TTS-Demo-Page/">Demo</a></p>
       <ul class="featured-paper-points">
         <li>Builds a data cleaning and distillation pipeline for context-aware, instruction-following speech synthesis.</li>
         <li>Introduces Context-Aware DPO to align dialogue history, reasoning, instructions, and generated speech.</li>
@@ -75,7 +75,7 @@
       <a class="featured-paper-title" href="https://arxiv.org/abs/2611.10162">M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction</a><span class="contribution-tag">Co-first author</span>
       <p class="featured-paper-authors">Wenhao Li*, <strong>Jingbin Hu*</strong>, Shengming Ling, Xiaming Ren, et al.</p>
       <p class="featured-paper-meta">arXiv, 2026 · *Equal contribution</p>
-      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2611.10162">Paper</a><a href="https://github.com/ASLP-lab/M5-TTS">Code</a></p>
+      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2611.10162">Paper</a><a href="https://aslp-lab.github.io/M5-TTS-Demo-Page">Demo</a><a href="https://github.com/ASLP-lab/M5-TTS">Code</a><a href="https://huggingface.co/ASLP-lab/M5-TTS">Model</a><a href="https://huggingface.co/spaces/ASLP-lab/M5-TTS-Space">Try it</a></p>
       <ul class="featured-paper-points">
         <li>Presents a compact 50M-parameter TTS language model for multilingual and Chinese multi-dialect speech.</li>
         <li>Uses multi-token prediction across 16 codec codebooks and supports zero-shot voice cloning and streaming.</li>
@@ -91,7 +91,7 @@
       <a class="featured-paper-title" href="https://aclanthology.org/2026.findings-acl.1395/">WenetSpeech-Wu: Datasets, Benchmarks, and Models for a Unified Chinese Wu Dialect Speech Processing Ecosystem</a><span class="contribution-tag">Co-first author</span>
       <p class="featured-paper-authors">Chengyou Wang*, Mingchen Shao*, <strong>Jingbin Hu*</strong>, Zeyu Zhu*, et al.</p>
       <p class="featured-paper-meta">Findings of ACL, 2026 · *Equal contribution</p>
-      <p class="featured-paper-links"><a href="https://aclanthology.org/2026.findings-acl.1395/">Paper</a><a href="https://github.com/ASLP-lab/WenetSpeech-Wu-Repo">Code &amp; Data</a></p>
+      <p class="featured-paper-links"><a href="https://aclanthology.org/2026.findings-acl.1395/">Paper</a><a href="https://hujingbin1.github.io/WenetSpeechWu-Demo-Page-Public/">Demo</a><a href="https://github.com/ASLP-lab/WenetSpeech-Wu-Repo">Code</a><a href="https://huggingface.co/collections/ASLP-lab/wenetspeech-wu">Models &amp; Data</a></p>
       <ul class="featured-paper-points">
         <li>Introduces an approximately 8,000-hour open Wu dialect corpus with multidimensional annotations.</li>
         <li>Pairs the corpus with a benchmark and open models across speech understanding and generation tasks.</li>
@@ -107,7 +107,7 @@
       <a class="featured-paper-title" href="https://arxiv.org/abs/2610.31796">DRAMA-Eval: A Benchmark for Context-Aware, Multi-Turn, Multi-Speaker Speech Generation</a><span class="contribution-tag">First author</span>
       <p class="featured-paper-authors"><strong>Jingbin Hu</strong>, Zihang Yang, Xiaoge Peng, Haoyu Zhang, et al.</p>
       <p class="featured-paper-meta">arXiv, 2026</p>
-      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2610.31796">Paper</a><a href="https://github.com/ASLP-lab/DRAMA-Eval">Code &amp; Data</a></p>
+      <p class="featured-paper-links"><a href="https://arxiv.org/abs/2610.31796">Paper</a><a href="https://aslp-lab.github.io/DRAMA-Eval-Demo">Demo</a><a href="https://github.com/ASLP-lab/DRAMA-Eval">Code</a><a href="https://huggingface.co/datasets/ASLP-lab/DRAMA-Eval">Dataset</a><a href="https://huggingface.co/datasets/ASLP-lab/DRAMA-Eval-Results">Results</a></p>
       <ul class="featured-paper-points">
         <li>Provides a 12-hour bilingual benchmark built from human-verified scripts and reference audio.</li>
         <li>Evaluates acoustic fidelity, local instruction execution, and long-range dialogue coherence.</li>
