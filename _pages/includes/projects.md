@@ -11,7 +11,8 @@
 ## Industry Collaborations
 {: #industry-collaborations}
 
-- **Huawei (华为)** — Developed streaming speech synthesis for on-device use, including dialect voices and control over pauses. With Huawei’s Audio Engineering team, I also worked on directing character voices for audio dramas.
-- **iQIYI (爱奇艺)** — Worked on expressive Thai dubbing, using cross-lingual emotion transfer to carry the emotion of a reference performance into Thai speech.
-- **灵光乍现** — Built a speech annotation pipeline and fine-tuned [VoiceSculptor](https://github.com/ASLP-lab/VoiceSculptor) to let users describe a character’s voice and speaking style for film, TV, and animation.
-- **媲美科技** — Lead a team developing expressive dubbing for film and TV, with a focus on training data for complex audio scenes and evaluating generated dialogue.
+- **Huawei Intelligent Automotive Solution Business Unit** — Developed on-device text-to-speech for natural, expressive in-car voices, with control over phrasing and pauses.
+- **Huawei Central Media Technology Institute** — Worked on speech synthesis for audio dramas, using natural-language instructions to direct how each character delivers a line.
+- **iQIYI** — Developed expressive Thai dubbing using cross-lingual emotion transfer from a reference performance.
+- **Shanghai Lingguang Zhaxian Technology** — Worked on voice design for film, TV, and animation, and co-developed [OmniCodec](https://arxiv.org/abs/2603.20638), a low frame rate codec for speech, music, and environmental sounds.
+- **Shenzhen Pimei Technology Co., Ltd.** — Led work on expressive dubbing for film and TV and co-developed [DRAMA-Eval](https://arxiv.org/abs/2610.31796) to assess how well generated dialogue follows a script across speakers and turns.
