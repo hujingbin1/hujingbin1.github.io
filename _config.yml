@@ -1,5 +1,5 @@
 title: "Jingbin Hu"
-description: "Jingbin Hu — Speech Generation, Representation Learning, and Post-training"
+description: "Jingbin Hu — Audio Generation, Representation Learning, and Post-training"
 repository: "hujingbin1/hujingbin1.github.io"
 url: "https://hujingbin1.github.io"
 baseurl: ""
@@ -12,7 +12,7 @@ google_scholar_stats_use_cdn: true
 author:
   name: "Jingbin Hu"
   avatar: "images/jingbin-hu.png?v=f61592c0"
-  bio: "Speech Generation · Representation Learning · Post-training"
+  bio: "Audio Generation · Representation Learning · Post-training"
   location: "Xi’an, China"
   employer: "ASLP Lab · Northwestern Polytechnical University"
   googlescholar: "https://scholar.google.com/citations?user=kA8XJkYAAAAJ&hl=en"
