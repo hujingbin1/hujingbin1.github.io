@@ -1,0 +1,57 @@
+title: "Jingbin Hu"
+description: "Jingbin Hu — Speech Generation, Representation Learning, and Post-training"
+repository: "hujingbin1/hujingbin1.github.io"
+url: "https://hujingbin1.github.io"
+baseurl: ""
+
+# Reuse the exact public Jekyll homepage template supplied by the user.
+remote_theme: "tiamojames/tiamojames.github.io@81aeba46763778b3998c9204d90cb4f4e51db3ed"
+
+google_scholar_stats_use_cdn: true
+
+author:
+  name: "Jingbin Hu"
+  avatar: "images/jingbin-hu.png"
+  bio: "Speech Generation · Representation Learning · Post-training"
+  location: "Xi’an, China"
+  employer: "ASLP Lab · Northwestern Polytechnical University"
+  googlescholar: "https://scholar.google.com/citations?user=kA8XJkYAAAAJ&hl=en"
+  email: "jingbin.hu@mail.nwpu.edu.cn"
+  github: "hujingbin1"
+  cv:
+
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - THIRD_PARTY_NOTICES.md
+  - vendor
+  - .github
+
+encoding: "utf-8"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
